@@ -9,7 +9,6 @@
 ---
 
 ## 🧠 Sobre mí
-
 🎓 Soy un desarrollador con enfoque en **bases de datos**, diseño y optimización de sistemas de información.  
 📌 Me apasiona estructurar, analizar y dar vida a los datos de forma eficiente.  
 🔍 Siempre explorando nuevas herramientas para mantenerme actualizado.
@@ -18,22 +17,24 @@
 
 ## 🚀 Tecnologías que uso
 
-<div align="center">
+<h3 align="center">💻 Lenguajes</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-### 💻 Lenguajes
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<h3 align="center">🛠️ Herramientas y Frameworks</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-### 🛠️ Herramientas y Frameworks
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-### 🗄️ Bases de Datos
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-</div>
+<h3 align="center">🗄️ Bases de Datos</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
 ---
 
@@ -49,22 +50,21 @@
 
 ## 🔗 Encuéntrame en otros lugares
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/jorge-luis-aparicio-alvarez-485277211/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
+</p>
 
 ---
 
 ## 📌 ¿Qué estoy haciendo ahora?
-
 - 🛠️ Desarrollando proyectos orientados a datos
 - 🧩 Mejorando mis habilidades en backend y patrones de diseño
 - 🌱 Profundizando en administración y optimización de bases de datos
 
 ---
 
-<div align="center">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Japaricio2004&style=flat-square&label=Vistas+al+perfil&color=7C3AED" />
-</div>
+</p>
