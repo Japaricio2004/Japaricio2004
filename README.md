@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Jorge;Desarrollador+en+Bases+de+Datos;SQL+%7C+MongoDB+%7C+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Jorge;Desarrollador+en+Bases+de+Datos;SQL%7C+MongoDB%7C+MySQL;Aprendiendo+Power+BI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -33,6 +33,9 @@
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
+### 📊 Aprendiendo Power BI
+<img src="https://img.shields.io/badge/Power%20BI-#F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
+
 </div>
 
 ---
@@ -62,10 +65,12 @@
 - 🛠️ Desarrollando proyectos orientados a datos
 - 🧩 Mejorando mis habilidades en backend y patrones de diseño
 - 🌱 Profundizando en administración y optimización de bases de datos
+- 📊 Aprendiendo Power BI
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Japaricio2004&style=flat-square&label=Vistas+al+perfil&color=7C3AED" />
 </div>
+
 
