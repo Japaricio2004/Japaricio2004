@@ -8,10 +8,14 @@
 
 ---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=%F0%9F%8E%93+Estudiante+de+Ingenier%C3%ADa+de+Software%3B+especializaci%C3%B3n+en+bases+de+datos%2C+optimización+de+sistemas+de+información+y+análisis+de+datos.%F0%9F%93%8C+Me+apasiona+estructurar%2C+analizar+y+dar+vida+a+los+datos+de+manera+eficiente.%F0%9F%95%8D+En+constante+aprendizaje+y+actualización+para+dominar+herramientas+emergentes." alt="Typing SVG" />
-</h1>
+## 🧠 Sobre mí
 
+<div align="center">
+  🎓 **Estudiante de Ingeniería de Software** especializado en **bases de datos** y optimización de sistemas.  
+  📌 Apasionado por estructurar, analizar y gestionar datos de manera eficiente.  
+  🔍 Siempre aprendiendo y actualizándome con herramientas emergentes.
+  <img src="https://assets2.lottiefiles.com/packages/lf20_Z1zVOS.json" width="200" />
+</div>
 ---
 
 ## 🚀 Tecnologías que uso
