@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=%F0%9F%91%8B+Soy+Jorge;Bases+de+Datos;SQL%7C+MongoDB%7C+MySQL;Aprendiendo+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Jorge;Bases+de+Datos;SQL%7C+MongoDB%7C+MySQL;Power+BI;Arduino;Oracle" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Base%20de%20datos-Especialista-7C3AED?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/%C2%A1Actitudes!-Actitud%20en%203D-7C3AED?style=for-the-badge&logo=databricks&logoColor=white">
 </p>
 
 ---
@@ -36,7 +36,7 @@
 ### 📊 Aprendiendo Power BI
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
 
-### 🔧 Otros
+### 🛠️ Otros
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
@@ -76,5 +76,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Japaricio2004&style=flat-square&label=Vistas+al+perfil&color=7C3AED" />
 </div>
-
 
