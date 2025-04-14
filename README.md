@@ -8,6 +8,13 @@
 
 ---
 
+## 🧠 Sobre mí
+
+🎓 **Estudiante de Ingeniería de Software** con especialización en **bases de datos**, optimización de sistemas de información y análisis de datos.  
+📌 Me apasiona estructurar, analizar y dar vida a los datos de manera eficiente.  
+🔍 En constante aprendizaje y actualización para dominar herramientas emergentes.
+
+---
 
 ## 🚀 Tecnologías que uso
 
@@ -19,9 +26,10 @@
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </div>
 
@@ -43,6 +51,15 @@
   <a href="https://www.linkedin.com/in/jorge-luis-aparicio-alvarez-485277211/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/jorge_luis_aparicio123/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </div>
 
+
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Japaricio2004&style=flat-square&label=Vistas+al+perfil&color=7C3AED" />
+</div>
+
