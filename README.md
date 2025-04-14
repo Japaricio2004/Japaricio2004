@@ -9,10 +9,12 @@
 ---
 
 ## 🧠 Sobre mí
-  🎓 **Estudiante de Ingeniería de Software** con interés en **bases de datos**.  
-  📌 Apasionado por estructurar, analizar y descubrir el potencial de los datos.  
-  💻 Explorando diversas áreas como desarrollo web, algorítmica y sistemas distribuidos.  
-  🔍 En constante aprendizaje y crecimiento, aprovechando cada oportunidad para expandir mis conocimientos.
+
+🎓 Estudiante de Ingeniería de Software con interés en bases de datos.  
+📌 Apasionado por estructurar, analizar y descubrir el potencial de los datos.  
+💻 Explorando diversas áreas como desarrollo web, algorítmica y sistemas distribuidos.  
+🔍 En constante aprendizaje y crecimiento, aprovechando cada oportunidad para expandir mis conocimientos.
+
 ---
 
 ## 🚀 Tecnologías que uso
