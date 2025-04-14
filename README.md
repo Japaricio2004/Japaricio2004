@@ -9,11 +9,10 @@
 ---
 
 ## 🧠 Sobre mí
-
-  🎓 **Estudiante de Ingeniería de Software** especializado en **bases de datos** y optimización de sistemas.  
-  📌 Apasionado por estructurar, analizar y gestionar datos de manera eficiente.  
-  🔍 Siempre aprendiendo y actualizándome con herramientas emergentes.
-
+  🎓 **Estudiante de Ingeniería de Software** con interés en **bases de datos**.  
+  📌 Apasionado por estructurar, analizar y descubrir el potencial de los datos.  
+  💻 Explorando diversas áreas como desarrollo web, algorítmica y sistemas distribuidos.  
+  🔍 En constante aprendizaje y crecimiento, aprovechando cada oportunidad para expandir mis conocimientos.
 ---
 
 ## 🚀 Tecnologías que uso
