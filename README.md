@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Jorge;Desarrollador+en+Bases+de+Datos;SQL%7C+MongoDB%7C+MySQL;Aprendiendo+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=%F0%9F%91%8B+Soy+Jorge;Bases+de+Datos;SQL%7C+MongoDB%7C+MySQL;Aprendiendo+Power+BI" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -35,6 +35,10 @@
 
 ### 📊 Aprendiendo Power BI
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
+
+### 🔧 Otros
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </div>
 
