@@ -59,7 +59,7 @@
 - 🌱 Aficionado a la fotografía
 - 🎵 Escuchando ahora:
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/tu-usuario-spotify)
+[![Spotify](https://open.spotify.com/search/enter%20sadman)
 
 ---
 
@@ -71,9 +71,6 @@
   </a>
   <a href="https://www.instagram.com/jorge_luis_aparicio123/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
----
-
-    
   </a>
 </div>
 
