@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=500&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Jorge;Desarrollador+orientado+a+bases+de+datos;Amante+de+la+optimización+y+la+eficiencia;SQL+%7C+MongoDB+%7C+MySQL+%7C+Tailwind+CSS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Jorge;Desarrollador+en+Bases+de+Datos;SQL+%7C+MongoDB+%7C+MySQL" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -68,3 +68,4 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Japaricio2004&style=flat-square&label=Vistas+al+perfil&color=7C3AED" />
 </div>
+
