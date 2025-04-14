@@ -1,18 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=%F0%9F%91%8B+%C2%A1Hola!+Soy+Jorge;Bases+de+Datos;SQL%7C+MongoDB%7C+MySQL;Power+BI;Arduino;Oracle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=%F0%9F%91%8B+Soy+Jorge;Estudiante+de+Ingenier%C3%ADa+de+Software;SQL%7C+MongoDB%7C+MySQL;Power+BI;Arduino;Oracle" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%C2%A1Actitudes!-Actitud%20en%203D-7C3AED?style=for-the-badge&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/%E2%9C%94+Actitudes-Especialista+en+Bases+de+Datos-7C3AED?style=for-the-badge&logo=databricks&logoColor=white">
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-🎓 Soy un desarrollador con enfoque en **bases de datos**, diseño y optimización de sistemas de información.  
-📌 Me apasiona estructurar, analizar y dar vida a los datos de forma eficiente.  
-🔍 Siempre explorando nuevas herramientas para mantenerme actualizado.
+🎓 **Estudiante de Ingeniería de Software** con especialización en **bases de datos**, optimización de sistemas de información y análisis de datos.  
+📌 Me apasiona estructurar, analizar y dar vida a los datos de manera eficiente.  
+🔍 En constante aprendizaje y actualización para dominar herramientas emergentes.
 
 ---
 
@@ -31,14 +31,13 @@
 ### 🗄️ Bases de Datos
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 ### 📊 Aprendiendo Power BI
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
 
 ### 🛠️ Otros
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 
 </div>
 
