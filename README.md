@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Jorge]
+# 👋 ¡Hola! Soy Jorge
 
 Soy desarrollador enfocado en bases de datos, con experiencia en diseño, mantenimiento y optimización de sistemas de información.
 
