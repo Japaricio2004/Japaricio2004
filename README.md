@@ -53,16 +53,6 @@
 
 ---
 
-## ⚡ Datos Curiosos
-- 🎮 Disfruto jugar videojuegos en mi tiempo libre
-- 📚 Últimamente estoy leyendo sobre inteligencia artificial
-- 🌱 Aficionado a la fotografía
-- 🎵 Escuchando ahora:
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tu-usuario-spotify&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)]([https://spotify-github-profile.vercel.app/api/view?uid=tu-usuario-spotify&redirect=true](https://open.spotify.com/collection/tracks))
-
----
-
 ## 🔗 Encuéntrame en otros lugares
 
 <div align="center">
