@@ -8,35 +8,19 @@
 
 ---
 
-## 🧠 Sobre mí
-
-🎓 **Estudiante de Ingeniería de Software** con especialización en **bases de datos**, optimización de sistemas de información y análisis de datos.  
-📌 Me apasiona estructurar, analizar y dar vida a los datos de manera eficiente.  
-🔍 En constante aprendizaje y actualización para dominar herramientas emergentes.
-
----
 
 ## 🚀 Tecnologías que uso
 
 <div align="center">
 
-### 💻 Lenguajes
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-### 🛠️ Herramientas y Frameworks
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-### 🗄️ Bases de Datos
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
-### 📊 Aprendiendo Power BI
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" />
-
-### 🛠️ Otros
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
 </div>
@@ -62,17 +46,3 @@
 </div>
 
 ---
-
-## 📌 ¿Qué estoy haciendo ahora?
-
-- 🛠️ Desarrollando proyectos orientados a datos
-- 🧩 Mejorando mis habilidades en backend y patrones de diseño
-- 🌱 Profundizando en administración y optimización de bases de datos
-- 📊 Aprendiendo Power BI
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Japaricio2004&style=flat-square&label=Vistas+al+perfil&color=7C3AED" />
-</div>
-
