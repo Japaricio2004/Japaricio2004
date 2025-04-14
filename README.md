@@ -59,7 +59,7 @@
 - 🌱 Aficionado a la fotografía
 - 🎵 Escuchando ahora:
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317yjgezwwz36llphxuy6wlay5ki&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://open.spotify.com/user/317yjgezwwz36llphxuy6wlay5ki)
+🎸 Escuchá [Enter Sandman - Metallica](https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF)
 
 ---
 
