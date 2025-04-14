@@ -36,6 +36,13 @@
 
 ---
 
+## 🧰 Habilidades Blandas
+- 🗣️ Comunicación efectiva
+- 👥 Trabajo en equipo
+- 🧩 Resolución de problemas
+- 🚀 Proactividad
+  
+---
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
@@ -43,6 +50,16 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Japaricio2004&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&fire=F97316&sideNums=7C3AED" />
 </div>
+
+---
+
+## ⚡ Datos Curiosos
+- 🎮 Disfruto jugar videojuegos en mi tiempo libre
+- 📚 Últimamente estoy leyendo sobre inteligencia artificial
+- 🌱 Aficionado a la fotografía
+- 🎵 Escuchando ahora:
+
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/tu-usuario-spotify)
 
 ---
 
@@ -54,6 +71,9 @@
   </a>
   <a href="https://www.instagram.com/jorge_luis_aparicio123/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+---
+
+    
   </a>
 </div>
 
