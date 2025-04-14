@@ -12,11 +12,10 @@
 
 ## 🧠 Sobre mí
 
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/graduation-cap_1f393.png" width="22"/> **Estudiante de Ingeniería de Software** enfocado en el mundo de los datos.  
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/chart-increasing_1f4c8.png" width="22"/> Apasionado por **analizar, estructurar** y descubrir el verdadero valor de la información.  
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/globe-with-meridians_1f310.png" width="22"/> Explorando áreas como **desarrollo web**, **algoritmos** y **sistemas distribuidos**.  
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/rocket_1f680.png" width="22"/> Siempre en modo aprendizaje, buscando crecer con cada línea de código.
-
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f393.png" width="26"/> Estudiante de Ingeniería de Software con interés en bases de datos.
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4c8.png" width="26"/> Apasionado por estructurar, analizar y descubrir el potencial de los datos.
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png" width="26"/> Explorando desarrollo web, algorítmica y sistemas distribuidos.
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f680.png" width="26"/> Siempre aprendiendo y creciendo como desarrollador.
 
 
 ---
