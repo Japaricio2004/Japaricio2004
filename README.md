@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hola soy Jorge Aparicio
+👋 Hola, soy Jorge Aparicio
 </h1>
 
 <h1 align="center">
