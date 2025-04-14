@@ -9,12 +9,11 @@
 ---
 
 ## 🧠 Sobre mí
-
 <div align="center">
   🎓 **Estudiante de Ingeniería de Software** especializado en **bases de datos** y optimización de sistemas.  
   📌 Apasionado por estructurar, analizar y gestionar datos de manera eficiente.  
   🔍 Siempre aprendiendo y actualizándome con herramientas emergentes.
-  <img src="https://assets2.lottiefiles.com/packages/lf20_Z1zVOS.json" width="200" />
+  <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_Z1zVOS.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;"  loop  autoplay></lottie-player>
 </div>
 ---
 
