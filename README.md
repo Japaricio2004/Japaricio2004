@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=%F0%9F%91%8B+Soy+Jorge;Estudiante+de+Ingenier%C3%ADa+de+Software;SQL%7C+MongoDB%7C+MySQL;Power+BI;Arduino;Oracle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=%F0%9F%91%8B+Jorge+Aparicio" alt="Typing SVG" />
 </h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/%E2%9C%94+Actitudes-Especialista+en+Bases+de+Datos-7C3AED?style=for-the-badge&logo=databricks&logoColor=white">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=1000&color=7C3AED&center=true&vCenter=true&width=400&lines=%F0%9F%91%8B+Soy+Jorge;Estudiante+de+Ingenier%C3%ADa+de+Software;SQL%7C+MongoDB%7C+MySQL;Power+BI;Arduino;Oracle" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -54,12 +54,5 @@
   <a href="https://www.instagram.com/jorge_luis_aparicio123/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
-
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Japaricio2004&style=flat-square&label=Vistas+al+perfil&color=7C3AED" />
 </div>
 
