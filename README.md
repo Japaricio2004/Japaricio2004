@@ -13,7 +13,7 @@
   🎓 **Estudiante de Ingeniería de Software** especializado en **bases de datos** y optimización de sistemas.  
   📌 Apasionado por estructurar, analizar y gestionar datos de manera eficiente.  
   🔍 Siempre aprendiendo y actualizándome con herramientas emergentes.
-  <lottie-player src="https://assets2.lottiefiles.com/packages/lf20_Z1zVOS.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;"  loop  autoplay></lottie-player>
+  <lottie-player src="https://assets1.lottiefiles.com/packages/lf20_7gkK0g.json" background="transparent" speed="1" style="width: 200px; height: 200px;" loop autoplay></lottie-player>
 </div>
 ---
 
