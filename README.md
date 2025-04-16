@@ -10,10 +10,12 @@
 
 ## 🧠 Sobre mí
 
-🧑‍💻 **Estudiante de Ingeniería de Software** con interés en bases de datos.  
-📊 Apasionado por estructurar, analizar y descubrir el potencial de los datos.  
-🌐 Explorando áreas como desarrollo web, algorítmica y sistemas distribuidos.  
-💡 En constante aprendizaje y crecimiento, aprovechando cada oportunidad para expandir mis conocimientos.
+<div align="center">
+  <img src="https://img.shields.io/badge/Estudiante-Software%20Engineer-%237c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apasionado-Datos-%23F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Inter%C3%A9s-Distribuidos%20%7C%20Web-%2300BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Actitud-Aprendizaje%20Constante-%2390EE90?style=for-the-badge" />
+</div>
 
 ---
 
@@ -37,12 +39,16 @@
 ---
 
 ## 🧰 Habilidades Blandas
-- 🗣️ Comunicación efectiva
-- 👥 Trabajo en equipo
-- 🧩 Resolución de problemas
-- 🚀 Proactividad
-  
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🗣️%20Comunicación%20efectiva-%236b7280?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👥%20Trabajo%20en%20equipo-%236b7280?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧩%20Resolución%20de%20problemas-%236b7280?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20Proactividad-%236b7280?style=for-the-badge" />
+</div>
+
 ---
+
 ## 📈 Estadísticas de GitHub
 
 <div align="center">
@@ -63,4 +69,5 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+
 
