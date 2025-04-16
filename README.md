@@ -7,7 +7,6 @@
 </h1>
 
 ---
-
 <table border="1" cellpadding="10" cellspacing="0" width="100%">
   <tr>
     <td>
@@ -27,7 +26,6 @@
     </td>
   </tr>
 </table>
-
 ---
 
 ## 🚀 Tecnologías que uso
