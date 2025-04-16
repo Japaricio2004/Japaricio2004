@@ -8,12 +8,25 @@
 
 ---
 
-## 🧠 Sobre mí
-
-🧑‍💻 **Estudiante de Ingeniería de Software** con interés en bases de datos.  
-📊 Apasionado por estructurar, analizar y descubrir el potencial de los datos.  
-🌐 Explorando áreas como desarrollo web, algorítmica y sistemas distribuidos.  
-💡 En constante aprendizaje y crecimiento, aprovechando cada oportunidad para expandir mis conocimientos.
+<table align="center" border="1" cellpadding="10" cellspacing="0" width="90%">
+  <tr>
+    <td>
+      <h3>🧠 Sobre mí</h3>
+      <ul>
+        <li>🧑‍💻 <strong>Estudiante de Ingeniería de Software</strong> con interés en <strong>bases de datos</strong>.</li>
+        <li>📊 Apasionado por estructurar, analizar y descubrir el <strong>potencial de los datos</strong>.</li>
+        <li>🌐 Explorando áreas como:
+          <ul>
+            <li>Desarrollo web</li>
+            <li>Algorítmica</li>
+            <li>Sistemas distribuidos</li>
+          </ul>
+        </li>
+        <li>💡 En constante <strong>aprendizaje y crecimiento</strong>, siempre buscando expandir mis conocimientos.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
