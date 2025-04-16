@@ -52,12 +52,19 @@
 
 ---
 
-## 🧰 Habilidades Blandas
-
-- 🗣️ Comunicación efectiva  
-- 👥 Trabajo en equipo  
-- 🧩 Resolución de problemas  
-- 🚀 Proactividad
+<table border="1" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td>
+      <h3>🧰 Habilidades Blandas</h3>
+      <ul>
+        <li>🗣️ Comunicación efectiva</li>
+        <li>👥 Trabajo en equipo</li>
+        <li>🧩 Resolución de problemas</li>
+        <li>🚀 Proactividad</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
