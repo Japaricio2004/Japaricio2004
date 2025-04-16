@@ -8,25 +8,22 @@
 
 ---
 
-<table align="center" border="1" cellpadding="10" cellspacing="0" width="90%">
-  <tr>
-    <td>
-      <h3>🧠 Sobre mí</h3>
+<div style="border: 3px solid #7C3AED; border-radius: 10px; box-shadow: 4px 4px 10px rgba(0,0,0,0.2); padding: 15px; background-color: #fefefe; margin-bottom: 20px;">
+  <h3>🧠 Sobre mí</h3>
+  <ul>
+    <li>🧑‍💻 <strong>Estudiante de Ingeniería de Software</strong> con interés en <strong>bases de datos</strong>.</li>
+    <li>📊 Apasionado por estructurar, analizar y descubrir el <strong>potencial de los datos</strong>.</li>
+    <li>🌐 Explorando áreas como:
       <ul>
-        <li>🧑‍💻 <strong>Estudiante de Ingeniería de Software</strong> con interés en <strong>bases de datos</strong>.</li>
-        <li>📊 Apasionado por estructurar, analizar y descubrir el <strong>potencial de los datos</strong>.</li>
-        <li>🌐 Explorando áreas como:
-          <ul>
-            <li>Desarrollo web</li>
-            <li>Algorítmica</li>
-            <li>Sistemas distribuidos</li>
-          </ul>
-        </li>
-        <li>💡 En constante <strong>aprendizaje y crecimiento</strong>, siempre buscando expandir mis conocimientos.</li>
+        <li>Desarrollo web</li>
+        <li>Algorítmica</li>
+        <li>Sistemas distribuidos</li>
       </ul>
-    </td>
-  </tr>
-</table>
+    </li>
+    <li>💡 En constante <strong>aprendizaje y crecimiento</strong>, siempre buscando expandir mis conocimientos.</li>
+  </ul>
+</div>
+
 
 ---
 
