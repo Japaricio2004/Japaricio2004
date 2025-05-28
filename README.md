@@ -57,7 +57,7 @@
 
 <div align="center">
 
-| <img src="https://img.icons8.com/ios-filled/50/7C3AED/communication.png" width="30" /> **Comunicación** | <img src="https://img.icons8.com/ios-filled/50/7C3AED/team.png" width="30" /> **Trabajo en equipo** | <img src="https://img.icons8.com/ios-filled/50/7C3AED/idea.png" width="30" /> **Resolución de problemas** | <img src="https://img.icons8.com/ios-filled/50/7C3AED/rocket.png" width="30" /> **Proactividad** |
+| <img src="https://img.icons8.com/ios-filled/50/7C3AED/communication.png" width="30" /> **Comunicación** | <img src="https://img.icons8.com/fluency-systems-filled/48/7C3AED/conference-call.png" width="30" /> **Trabajo en equipo** | <img src="https://img.icons8.com/ios-filled/50/7C3AED/idea.png" width="30" /> **Resolución de problemas** | <img src="https://img.icons8.com/ios-filled/50/7C3AED/rocket.png" width="30" /> **Proactividad** |
 |:--:|:--:|:--:|:--:|
 | 🗣️ Expreso mis ideas de forma clara y efectiva. | 🤝 Colaboro con responsabilidad y empatía. | 🧠 Encuentro soluciones creativas a retos técnicos. | 🚀 Busco mejorar constantemente y tomar la iniciativa. |
 
