@@ -8,26 +8,22 @@
 
 ## 🧠 Sobre mí
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /> </p> <div align="center">
+🎓 Soy estudiante de <strong>Ingeniería de Software</strong>, apasionado por descubrir el poder de los <strong>datos</strong> y crear soluciones en el mundo de la <strong>tecnología web</strong>.
+
+💡 Me motiva comprender cómo funciona la información detrás de cada sistema, desde bases de datos hasta algoritmos, y cómo transformar esos datos en valor real.
+
+🌐 Tengo un interés especial en:
+
+<strong>Desarrollo Web</strong>: crear experiencias útiles y accesibles
+
+<strong>Algoritmos</strong>: resolver problemas de forma eficiente
+
+<strong>Sistemas Distribuidos</strong>: entender cómo escalan las grandes plataformas
+
+🚀 Cada día busco aprender algo nuevo, mejorar mis habilidades y contribuir con proyectos que generen impacto. Me considero una persona curiosa, responsable y con muchas ganas de crecer en el mundo tech. 💜
+
 </div>
-
-<table align="center">
-  <tr>
-    <td>
-      🎓 Soy estudiante de <strong>Ingeniería de Software</strong>, apasionado por descubrir el poder de los <strong>datos</strong> y crear soluciones en el mundo de la <strong>tecnología web</strong>.<br><br>
-
-      💡 Me motiva comprender cómo funciona la información detrás de cada sistema, desde bases de datos hasta algoritmos, y cómo transformar esos datos en valor real.<br><br>
-
-      🌐 Tengo un interés especial en:<br>
-      &nbsp;&nbsp;&nbsp;• <strong>Desarrollo Web</strong>: crear experiencias útiles y accesibles<br>
-      &nbsp;&nbsp;&nbsp;• <strong>Algoritmos</strong>: resolver problemas de forma eficiente<br>
-      &nbsp;&nbsp;&nbsp;• <strong>Sistemas Distribuidos</strong>: entender cómo escalan las grandes plataformas<br><br>
-
-      🚀 Cada día busco aprender algo nuevo, mejorar mis habilidades y contribuir con proyectos que generen impacto. Me considero una persona curiosa, responsable y con muchas ganas de crecer en el mundo tech. 💜
-    </td>
-  </tr>
-</table>
 
 ---
 
