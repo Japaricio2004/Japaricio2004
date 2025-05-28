@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Apasionado+por+los+datos+y+la+web" alt="Typing SVG" />
 </p>
 
----
+<hr>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -24,7 +24,7 @@
   </tr>
 </table>
 
----
+<hr>
 
 ## 🛠️ Tecnologías que uso
 
@@ -45,7 +45,7 @@
 
 </div>
 
----
+<hr>
 
 ## 💡 Habilidades Blandas
 
@@ -61,7 +61,7 @@
 
 </div>
 
----
+<hr>
 
 ## 📊 Estadísticas de GitHub
 
@@ -71,7 +71,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Japaricio2004&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&fire=F97316&sideNums=7C3AED&border_radius=15" />
 </div>
 
----
+<hr>
 
 ## 🌐 Encuéntrame en:
 
@@ -84,7 +84,7 @@
   </a>
 </div>
 
----
+<hr>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer"/>
