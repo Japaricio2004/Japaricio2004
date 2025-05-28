@@ -5,26 +5,42 @@
 </p>
 
 ---
+## 👨‍💻 Sobre mí
 
-## 🧠 Sobre mí
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+
+🌟 **¡Hola! Soy Jorge Aparicio**  
+🎓 Estudiante de **Ingeniería de Software**  
+💜 Apasionado por los **datos** y el **desarrollo web**
+
 </div>
 
-<table align="center">
-  <tr>
-    <td>
-      🎓 Estudiante de <strong>Ingeniería de Software</strong> con pasión por los <strong>datos</strong> y la <strong>tecnología web</strong>.<br><br>
-      🔍 Me encanta estructurar y descubrir el <strong>potencial de la información</strong>.<br><br>
-      🌐 Interesado en áreas como:<br>
-      &nbsp;&nbsp;&nbsp;• Desarrollo Web<br>
-      &nbsp;&nbsp;&nbsp;• Algoritmos<br>
-      &nbsp;&nbsp;&nbsp;• Sistemas Distribuidos<br><br>
-      🚀 Siempre aprendiendo y creciendo cada día.
-    </td>
-  </tr>
-</table>
+---
+
+### 🧠 ¿Qué me motiva?
+
+> “Transformar ideas en soluciones tecnológicas útiles y eficientes.”
+
+💡 Disfruto:
+- 🔍 Descubrir el **potencial de la información**
+- 🛠️ Resolver problemas con **lógica y creatividad**
+- 🚀 Explorar herramientas modernas que mejoren la experiencia del usuario
+
+---
+
+### 🌐 Intereses principales
+
+<div align="center">
+
+| 🕸️ Desarrollo Web | 🧠 Algoritmos | ☁️ Sistemas Distribuidos |
+|:----------------:|:------------:|:------------------------:|
+| Interfaces modernas y funcionales | Resolver problemas con eficiencia | Conectividad, escalabilidad y rendimiento |
+
+</div>
 
 ---
 
