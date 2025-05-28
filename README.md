@@ -52,12 +52,6 @@
 ## 💡 Habilidades Blandas
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300" />
-</div>
-
-## 💡 Habilidades Blandas
-
-<div align="center">
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300" />
 </div>
 
