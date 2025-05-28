@@ -55,6 +55,12 @@
   <img src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" width="300" />
 </div>
 
+## 💡 Habilidades Blandas
+
+<div align="center">
+  <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300" />
+</div>
+
 <div align="center">
 
 | <img src="https://img.icons8.com/ios-filled/50/7C3AED/communication.png" width="30" /> **Comunicación** | <img src="https://img.icons8.com/ios-filled/50/7C3AED/group.png" width="30" /> **Trabajo en equipo** | <img src="https://img.icons8.com/ios-filled/50/7C3AED/idea.png" width="30" /> **Resolución de problemas** | <img src="https://img.icons8.com/ios-filled/50/7C3AED/rocket.png" width="30" /> **Proactividad** |
@@ -62,6 +68,7 @@
 | 🗣️ Expreso mis ideas de forma clara y efectiva. | 🤝 Colaboro con responsabilidad y empatía. | 🧠 Encuentro soluciones creativas a retos técnicos. | 🚀 Busco mejorar constantemente y tomar la iniciativa. |
 
 </div>
+
 
 ---
 
