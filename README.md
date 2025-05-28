@@ -15,13 +15,16 @@
 <table align="center">
   <tr>
     <td>
-      🎓 Estudiante de <strong>Ingeniería de Software</strong> con pasión por los <strong>datos</strong> y la <strong>tecnología web</strong>.<br><br>
-      🔍 Me encanta estructurar y descubrir el <strong>potencial de la información</strong>.<br><br>
-      🌐 Interesado en áreas como:<br>
-      &nbsp;&nbsp;&nbsp;• Desarrollo Web<br>
-      &nbsp;&nbsp;&nbsp;• Algoritmos<br>
-      &nbsp;&nbsp;&nbsp;• Sistemas Distribuidos<br><br>
-      🚀 Siempre aprendiendo y creciendo cada día.
+      🎓 Soy estudiante de <strong>Ingeniería de Software</strong>, apasionado por descubrir el poder de los <strong>datos</strong> y crear soluciones en el mundo de la <strong>tecnología web</strong>.<br><br>
+
+      💡 Me motiva comprender cómo funciona la información detrás de cada sistema, desde bases de datos hasta algoritmos, y cómo transformar esos datos en valor real.<br><br>
+
+      🌐 Tengo un interés especial en:<br>
+      &nbsp;&nbsp;&nbsp;• <strong>Desarrollo Web</strong>: crear experiencias útiles y accesibles<br>
+      &nbsp;&nbsp;&nbsp;• <strong>Algoritmos</strong>: resolver problemas de forma eficiente<br>
+      &nbsp;&nbsp;&nbsp;• <strong>Sistemas Distribuidos</strong>: entender cómo escalan las grandes plataformas<br><br>
+
+      🚀 Cada día busco aprender algo nuevo, mejorar mis habilidades y contribuir con proyectos que generen impacto. Me considero una persona curiosa, responsable y con muchas ganas de crecer en el mundo tech. 💜
     </td>
   </tr>
 </table>
@@ -62,7 +65,6 @@
 | 🗣️ Expreso mis ideas de forma clara y efectiva. | 🤝 Colaboro con responsabilidad y empatía. | 🧠 Encuentro soluciones creativas a retos técnicos. | 🚀 Busco mejorar constantemente y tomar la iniciativa. |
 
 </div>
-
 
 ---
 
