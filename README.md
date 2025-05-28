@@ -6,24 +6,23 @@
 
 ---
 
-## 🧠 Sobre mí
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" /> </p> <div align="center">
-🎓 Soy estudiante de <strong>Ingeniería de Software</strong>, apasionado por descubrir el poder de los <strong>datos</strong> y crear soluciones en el mundo de la <strong>tecnología web</strong>.
-
-💡 Me motiva comprender cómo funciona la información detrás de cada sistema, desde bases de datos hasta algoritmos, y cómo transformar esos datos en valor real.
-
-🌐 Tengo un interés especial en:
-
-<strong>Desarrollo Web</strong>: crear experiencias útiles y accesibles
-
-<strong>Algoritmos</strong>: resolver problemas de forma eficiente
-
-<strong>Sistemas Distribuidos</strong>: entender cómo escalan las grandes plataformas
-
-🚀 Cada día busco aprender algo nuevo, mejorar mis habilidades y contribuir con proyectos que generen impacto. Me considero una persona curiosa, responsable y con muchas ganas de crecer en el mundo tech. 💜
-
-</div>
+<table align="center">
+  <tr>
+    <td>
+      🎓 Estudiante de <strong>Ingeniería de Software</strong> con pasión por los <strong>datos</strong> y la <strong>tecnología web</strong>.<br><br>
+      🔍 Me encanta estructurar y descubrir el <strong>potencial de la información</strong>.<br><br>
+      🌐 Interesado en áreas como:<br>
+      &nbsp;&nbsp;&nbsp;• Desarrollo Web<br>
+      &nbsp;&nbsp;&nbsp;• Algoritmos<br>
+      &nbsp;&nbsp;&nbsp;• Sistemas Distribuidos<br><br>
+      🚀 Siempre aprendiendo y creciendo cada día.
+    </td>
+  </tr>
+</table>
 
 ---
 
