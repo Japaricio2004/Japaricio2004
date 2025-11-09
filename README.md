@@ -6,12 +6,12 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Jorge%20Aparicio&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:34495E&height=200&section=header&text=Jorge%20Aparicio&fontSize=80&fontAlignY=35&fontColor=FFFFFF" />
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%F0%9F%92%BB;Apasionado+por+los+Datos+%F0%9F%93%8A;Desarrollador+Web+Full+Stack+%F0%9F%8C%90;Siempre+Aprendiendo+Algo+Nuevo+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Estudiante+de+Ingenier%C3%ADa+de+Software;Apasionado+por+los+Datos;Desarrollador+Web+Full+Stack;Siempre+Aprendiendo+Algo+Nuevo)](https://git.io/typing-svg)
   
 </div>
 
