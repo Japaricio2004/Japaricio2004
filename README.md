@@ -113,13 +113,20 @@
 ## 📊 ***GitHub Analytics***
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Japaricio2004&show_icons=true&theme=radical&border_radius=10&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&border_color=6366F1" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Japaricio2004&theme=radical&border_radius=10&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1&sideNums=6366F1&currStreakNum=FFFFFF&dates=8B8B8B&sideLabels=6366F1&border=6366F1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Japaricio2004&show_icons=true&theme=radical&border_radius=10&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&border_color=6366F1" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Japaricio2004&theme=radical&border_radius=10&background=0D1117&ring=6366F1&fire=F97316&currStreakLabel=6366F1&sideNums=6366F1&currStreakNum=FFFFFF&dates=8B8B8B&sideLabels=6366F1&border=6366F1" />
 </p>
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japaricio2004&layout=compact&theme=radical&border_radius=10&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&border_color=6366F1" />
 </p>
+
+<br/>
+
+<!-- DIVISOR DECORATIVO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
+## 🏆 ***GitHub Trofeos***
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Japaricio2004&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
