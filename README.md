@@ -205,26 +205,19 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://img.icons8.com/fluency/96/000000/github.png" width="80"/>
       <br/><br/>
       <b>🌟 Open Source</b>
       <br/><br/>
       Contribuir a proyectos de código abierto y compartir conocimiento con la comunidad
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <img src="https://img.icons8.com/fluency/96/000000/workflow.png" width="80"/>
       <br/><br/>
       <b>⚡ Apps Escalables</b>
       <br/><br/>
       Crear aplicaciones robustas que soporten miles de usuarios
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="80"/>
-      <br/><br/>
-      <b>☁️ Cloud Master</b>
-      <br/><br/>
-      Dominar arquitecturas cloud y servicios AWS/Azure
     </td>
   </tr>
 </table>
@@ -235,9 +228,9 @@
   
 ### 🎯 ***Enfoque Actual***
 
-| <img src="https://img.icons8.com/color/48/000000/python.png"/> Data Science | <img src="https://img.icons8.com/color/48/000000/javascript.png"/> Web Development | <img src="https://img.icons8.com/color/48/000000/cloud.png"/> Cloud Computing |
+| <img src="https://img.icons8.com/color/48/000000/javascript.png"/> Desarrollo Web | <img src="https://img.icons8.com/color/48/000000/code.png"/> Frontend & Backend | <img src="https://img.icons8.com/color/48/000000/database.png"/> Base de Datos |
 |:---:|:---:|:---:|
-| Análisis y visualización | Frontend & Backend | AWS & Azure |
+| Aplicaciones modernas | Arquitectura completa | SQL & NoSQL |
 
 </div>
 
