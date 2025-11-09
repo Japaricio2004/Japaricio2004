@@ -36,15 +36,32 @@
 <!-- DIVISOR CON LÍNEA COLORIDA -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
 
+<div align="center">
+
+<table style="border: 2px solid #6366F1; border-radius: 15px;">
+<tr>
+<td width="60%" style="padding: 20px; vertical-align: top;">
+
 🎓 Estudiante de **Ingeniería de Software** en constante evolución  
+
 💡 Apasionado por **transformar datos en decisiones inteligentes**  
+
 🌐 Creando soluciones web que **impactan y simplifican**  
+
 🔍 Explorando el mundo de los **sistemas distribuidos**  
-🚀 En búsqueda continua de **nuevos retos tecnológicos**  
+
+🚀 En búsqueda continua de **nuevos retos tecnológicos**
+
+</td>
+<td width="40%" style="padding: 20px; text-align: center; vertical-align: middle;">
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius: 10px;"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
