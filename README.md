@@ -118,7 +118,7 @@
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japaricio2004&layout=compact&theme=radical&border_radius=10&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&border_color=6366F1" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japaricio2004&layout=compact&theme=radical&border_radius=10&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&border_color=6366F1" />
 </p>
 
 <p align="center">
