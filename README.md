@@ -50,7 +50,11 @@
 
 🌐 Creando soluciones web que **impactan y simplifican**  
 
-🚀 En búsqueda continua de **nuevos retos tecnológicos**
+⚡ Desarrollando aplicaciones web modernas con **tecnologías de vanguardia**
+
+🔍 En búsqueda continua de **nuevos retos tecnológicos**
+
+📧 **Contáctame:** jorge2946237@gmail.com
 
 </td>
 <td width="40%" style="padding: 20px; text-align: center; vertical-align: middle;">
@@ -68,7 +72,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> ***Tech Stack***
 
-### 💻 Lenguajes de Programación
+<h3 align="center">💻 Lenguajes de Programación</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -76,7 +80,7 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-### 🎨 Frontend Development
+<h3 align="center">🎨 Frontend Development</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -85,7 +89,7 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </p>
 
-### 🗄️ Bases de Datos
+<h3 align="center">🗄️ Bases de Datos</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
@@ -93,7 +97,7 @@
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 🛠️ Herramientas & Plataformas
+<h3 align="center">🛠️ Herramientas & Plataformas</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
