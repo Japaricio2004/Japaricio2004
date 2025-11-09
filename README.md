@@ -1,4 +1,11 @@
 <div align="center">
+
+<!-- BORDE SUPERIOR CON GRADIENTE -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Jorge%20Aparicio&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
@@ -7,6 +14,9 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%F0%9F%92%BB;Apasionado+por+los+Datos+%F0%9F%93%8A;Desarrollador+Web+Full+Stack+%F0%9F%8C%90;Siempre+Aprendiendo+Algo+Nuevo+%F0%9F%9A%80)](https://git.io/typing-svg)
   
 </div>
+
+<!-- LÍNEA DECORATIVA -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-luis-aparicio-alvarez-485277211/">
@@ -22,6 +32,9 @@
 </p>
 
 <br/>
+
+<!-- DIVISOR CON LÍNEA COLORIDA -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -70,6 +83,9 @@
 
 <br/>
 
+<!-- DIVISOR DECORATIVO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25px"> ***Tech Stack***
 
 ### 💻 Lenguajes de Programación
@@ -109,6 +125,9 @@
 
 <br/>
 
+<!-- DIVISOR DECORATIVO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 ## 🎯 ***Habilidades Clave***
 
 <table>
@@ -138,6 +157,9 @@
 
 <br/>
 
+<!-- DIVISOR DECORATIVO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 ## 📊 ***GitHub Analytics***
 
 <p align="center">
@@ -155,6 +177,9 @@
 
 <br/>
 
+<!-- DIVISOR DECORATIVO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 ## 🚀 ***Proyectos Destacados***
 
 <div align="center">
@@ -168,6 +193,9 @@
 </p>
 
 <br/>
+
+<!-- DIVISOR DECORATIVO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 💼 ***Objetivos 2025***
 
@@ -215,6 +243,9 @@
 
 <br/>
 
+<!-- DIVISOR DECORATIVO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
+
 ## 🌟 ***Soft Skills***
 
 <div align="center">
@@ -226,6 +257,9 @@
 </div>
 
 <br/>
+
+<!-- DIVISOR DECORATIVO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 📫 ***Conecta Conmigo***
 
@@ -242,6 +276,9 @@
 </div>
 
 <br/>
+
+<!-- DIVISOR DECORATIVO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 🎮 ***Fun Facts***
 
@@ -281,7 +318,8 @@
 
 <br/>
 
----
+<!-- DIVISOR DECORATIVO -->
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
