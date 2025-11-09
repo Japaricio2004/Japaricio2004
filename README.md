@@ -28,7 +28,6 @@
   <a href="https://github.com/Japaricio2004">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Japaricio2004&label=Visitas&color=6366f1&style=for-the-badge" alt="Profile views" />
 </p>
 
 <br/>
