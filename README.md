@@ -51,7 +51,7 @@
   
 | 🌍 Ubicación | 🎓 Educación | 🎯 Enfoque Actual |
 |:---:|:---:|:---:|
-| 🌎 **Latinoamérica** | 💻 **Ingeniería de Software** | 📊 **Data Science & Web Dev** |
+| 🌎 **Latinoamérica** | 💻 **Ingeniería de Software** | 📊 **Datos & Web Dev** |
 
 </div>
 
@@ -281,30 +281,25 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/moon-symbol.png" width="60"/>
       <br/><b>🌙 Nocturno</b>
       <br/>Programo mejor de noche
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/coffee-to-go.png" width="60"/>
       <br/><b>☕ Cafeína</b>
       <br/>El café es mi combustible
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/book.png" width="60"/>
       <br/><b>📚 Lector</b>
       <br/>Leo docs como novelas
     </td>
-    <td align="center" width="20%">
+    <td align="center" width="25%">
       <img src="https://img.icons8.com/fluency/96/000000/goal.png" width="60"/>
       <br/><b>🎯 Meta</b>
       <br/>Código que otros disfruten
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.icons8.com/fluency/96/000000/idea.png" width="60"/>
-      <br/><b>💭 Filosofía</b>
-      <br/>"Code is poetry"
     </td>
   </tr>
 </table>
@@ -315,30 +310,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="80"/>
-  
-  ### 💡 ***Código con Propósito***
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/quote-left.png"/>
-      </td>
-      <td>
-        <i>"El código limpio no se escribe siguiendo reglas. El profesionalismo<br/>
-        y la artesanía provienen de <b>valores</b> que impulsan <b>disciplinas</b>."</i>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/fluency/48/000000/quote-right.png"/>
-      </td>
-    </tr>
-  </table>
   
   <br/>
   
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Code%20is-Poetry-purple?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Always-Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Keep-Coding-green?style=for-the-badge"/>
   
   <br/><br/>
   
