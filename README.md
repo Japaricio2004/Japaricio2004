@@ -52,17 +52,17 @@
 <table>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-location-dating-app-flaticons-flat-flat-icons.png" width="50"/><br/>
+<img src="https://img.icons8.com/fluency/96/000000/geography.png" width="50"/><br/>
 <sub><b>🌍 Ubicación</b></sub><br/>
-<sup>� Latinoamérica</sup>
+<sup>🌎 Latinoamérica</sup>
 </td>
 <td align="center" style="border: none;">
-<img src="https://img.icons8.com/external-filled-outline-berkah-icon/64/000000/external-education-school-filled-outline-berkah-icon.png" width="50"/><br/>
-<sub><b>� Educación</b></sub><br/>
+<img src="https://img.icons8.com/fluency/96/000000/education.png" width="50"/><br/>
+<sub><b>🎓 Educación</b></sub><br/>
 <sup>💻 Ingeniería de Software</sup>
 </td>
 <td align="center" style="border: none;">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-focus-agile-flaticons-lineal-color-flat-icons.png" width="50"/><br/>
+<img src="https://img.icons8.com/fluency/96/000000/bullseye.png" width="50"/><br/>
 <sub><b>🎯 Enfoque Actual</b></sub><br/>
 <sup>📊 Datos & Web Dev</sup>
 </td>
@@ -78,7 +78,7 @@
 <table>
 <tr>
 <td align="center" width="33%" style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px;">
-<img src="https://img.icons8.com/external-photo3ideatudio-gradient-photo3ideatudio/64/000000/external-analytics-data-science-photo3ideatudio-gradient-photo3ideatudio.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/analytics.png" width="80"/>
 <br/><br/>
 <b style="font-size: 18px;">🎯 Intereses</b>
 <br/><br/>
@@ -87,7 +87,7 @@
 <sub>☁️ Cloud Computing</sub>
 </td>
 <td align="center" width="33%" style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px;">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-learning-lifelong-learning-flaticons-lineal-color-flat-icons.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/book.png" width="80"/>
 <br/><br/>
 <b style="font-size: 18px;">📚 Aprendiendo</b>
 <br/><br/>
@@ -96,7 +96,7 @@
 <sub>🤖 Machine Learning</sub>
 </td>
 <td align="center" width="33%" style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px;">
-<img src="https://img.icons8.com/external-photo3ideatudio-lineal-color-photo3ideatudio/64/000000/external-rocket-space-photo3ideatudio-lineal-color-photo3ideatudio.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="80"/>
 <br/><br/>
 <b style="font-size: 18px;">🚀 Pasatiempos</b>
 <br/><br/>
@@ -163,7 +163,7 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-code-computer-programming-flaticons-lineal-color-flat-icons.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="80"/>
 <br/><br/>
 <b style="font-size: 16px; color: #6366F1;">💎 Clean Code</b>
 <br/><br/>
@@ -172,7 +172,7 @@
 <sub>mantenible</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-data-analysis-data-analytics-flaticons-lineal-color-flat-icons.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/combo-chart.png" width="80"/>
 <br/><br/>
 <b style="font-size: 16px; color: #6366F1;">📊 Data Analysis</b>
 <br/><br/>
@@ -181,7 +181,7 @@
 <sub>información</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-web-development-computer-programming-flaticons-lineal-color-flat-icons-3.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/domain.png" width="80"/>
 <br/><br/>
 <b style="font-size: 16px; color: #6366F1;">🌐 Web Dev</b>
 <br/><br/>
@@ -190,7 +190,7 @@
 <sub>completo</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-problem-solving-job-resume-flaticons-lineal-color-flat-icons.png" width="80"/>
+<img src="https://img.icons8.com/fluency/96/000000/mind-map.png" width="80"/>
 <br/><br/>
 <b style="font-size: 16px; color: #6366F1;">🧠 Problem Solving</b>
 <br/><br/>
@@ -239,7 +239,7 @@
 <table>
 <tr>
 <td align="center" width="48%" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 30px;">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/FFFFFF/external-open-source-data-analytics-flaticons-lineal-color-flat-icons.png" width="90"/>
+<img src="https://img.icons8.com/fluency/96/ffffff/github.png" width="90"/>
 <br/><br/>
 <b style="font-size: 20px; color: #FFFFFF;">🌟 Open Source</b>
 <br/><br/>
@@ -249,7 +249,7 @@
 </td>
 <td width="4%"></td>
 <td align="center" width="48%" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 30px;">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/FFFFFF/external-scalability-web-hosting-flaticons-lineal-color-flat-icons.png" width="90"/>
+<img src="https://img.icons8.com/fluency/96/ffffff/workflow.png" width="90"/>
 <br/><br/>
 <b style="font-size: 20px; color: #FFFFFF;">⚡ Apps Escalables</b>
 <br/><br/>
@@ -271,7 +271,7 @@
 <table>
 <tr>
 <td align="center" width="33%" style="border: 3px solid #F7DF1E; border-radius: 12px; padding: 15px; background: #FFFBEA;">
-<img src="https://img.icons8.com/color/64/000000/javascript.png" width="60"/>
+<img src="https://img.icons8.com/color/96/000000/javascript.png" width="60"/>
 <br/><br/>
 <b style="color: #F7DF1E;">🌐 Desarrollo Web</b>
 <br/><br/>
@@ -279,7 +279,7 @@
 <sub style="color: #666;">e interactivas</sub>
 </td>
 <td align="center" width="33%" style="border: 3px solid #6366F1; border-radius: 12px; padding: 15px; background: #EEF2FF;">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-backend-no-code-development-flaticons-lineal-color-flat-icons.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
 <br/><br/>
 <b style="color: #6366F1;">⚙️ Frontend & Backend</b>
 <br/><br/>
@@ -287,7 +287,7 @@
 <sub style="color: #666;">completa full stack</sub>
 </td>
 <td align="center" width="33%" style="border: 3px solid #4EA94B; border-radius: 12px; padding: 15px; background: #ECFDF5;">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-database-data-analytics-flaticons-lineal-color-flat-icons.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/000000/database.png" width="60"/>
 <br/><br/>
 <b style="color: #4EA94B;">🗄️ Base de Datos</b>
 <br/><br/>
