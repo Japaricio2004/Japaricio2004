@@ -52,17 +52,17 @@
 <table>
 <tr>
 <td align="center" style="border: none;">
-<img src="https://img.icons8.com/fluency/96/000000/geography.png" width="50"/><br/>
+<img src="https://img.icons8.com/color/96/000000/globe--v1.png" width="50"/><br/>
 <sub><b>🌍 Ubicación</b></sub><br/>
 <sup>🌎 Latinoamérica</sup>
 </td>
 <td align="center" style="border: none;">
-<img src="https://img.icons8.com/fluency/96/000000/education.png" width="50"/><br/>
+<img src="https://img.icons8.com/color/96/000000/graduation-cap--v1.png" width="50"/><br/>
 <sub><b>🎓 Educación</b></sub><br/>
 <sup>💻 Ingeniería de Software</sup>
 </td>
 <td align="center" style="border: none;">
-<img src="https://img.icons8.com/fluency/96/000000/bullseye.png" width="50"/><br/>
+<img src="https://img.icons8.com/color/96/000000/target--v1.png" width="50"/><br/>
 <sub><b>🎯 Enfoque Actual</b></sub><br/>
 <sup>📊 Datos & Web Dev</sup>
 </td>
