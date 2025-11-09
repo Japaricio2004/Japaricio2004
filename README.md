@@ -1,22 +1,12 @@
 <div align="center">
 
-<!-- BORDE SUPERIOR CON GRADIENTE -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+# Jorge Aparicio
+
+### Estudiante de Ingeniería de Software | Desarrollador Web Full Stack
 
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Jorge%20Aparicio&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
-</div>
-
-<div align="center">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=800&lines=Estudiante+de+Ingenier%C3%ADa+de+Software+%F0%9F%92%BB;Apasionado+por+los+Datos+%F0%9F%93%8A;Desarrollador+Web+Full+Stack+%F0%9F%8C%90;Siempre+Aprendiendo+Algo+Nuevo+%F0%9F%9A%80)](https://git.io/typing-svg)
-  
-</div>
-
-<!-- LÍNEA DECORATIVA -->
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-luis-aparicio-alvarez-485277211/">
