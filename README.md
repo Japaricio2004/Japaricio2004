@@ -48,38 +48,66 @@
 
 
 <div align="center">
-  
-| 🌍 Ubicación | 🎓 Educación | 🎯 Enfoque Actual |
-|:---:|:---:|:---:|
-| 🌎 **Latinoamérica** | 💻 **Ingeniería de Software** | 📊 **Datos & Web Dev** |
+
+<table>
+<tr>
+<td align="center" style="border: none;">
+<img src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-location-dating-app-flaticons-flat-flat-icons.png" width="50"/><br/>
+<sub><b>🌍 Ubicación</b></sub><br/>
+<sup>� Latinoamérica</sup>
+</td>
+<td align="center" style="border: none;">
+<img src="https://img.icons8.com/external-filled-outline-berkah-icon/64/000000/external-education-school-filled-outline-berkah-icon.png" width="50"/><br/>
+<sub><b>� Educación</b></sub><br/>
+<sup>💻 Ingeniería de Software</sup>
+</td>
+<td align="center" style="border: none;">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-focus-agile-flaticons-lineal-color-flat-icons.png" width="50"/><br/>
+<sub><b>🎯 Enfoque Actual</b></sub><br/>
+<sup>📊 Datos & Web Dev</sup>
+</td>
+</tr>
+</table>
 
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/analytics.png" width="70"/>
-      <br/><b>🎯 Intereses</b>
-      <br/>• Análisis de Datos
-      <br/>• Desarrollo Web
-      <br/>• Cloud Computing
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/learning.png" width="70"/>
-      <br/><b>📚 Aprendiendo</b>
-      <br/>• React & Node.js
-      <br/>• Docker
-      <br/>• Machine Learning
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/color/96/000000/rocket.png" width="70"/>
-      <br/><b>🚀 Pasatiempos</b>
-      <br/>• Código
-      <br/>• Lectura técnica
-      <br/>• Optimización
-    </td>
-  </tr>
+<br/>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%" style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px;">
+<img src="https://img.icons8.com/external-photo3ideatudio-gradient-photo3ideatudio/64/000000/external-analytics-data-science-photo3ideatudio-gradient-photo3ideatudio.png" width="80"/>
+<br/><br/>
+<b style="font-size: 18px;">🎯 Intereses</b>
+<br/><br/>
+<sub>📊 Análisis de Datos</sub><br/>
+<sub>🌐 Desarrollo Web</sub><br/>
+<sub>☁️ Cloud Computing</sub>
+</td>
+<td align="center" width="33%" style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px;">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-learning-lifelong-learning-flaticons-lineal-color-flat-icons.png" width="80"/>
+<br/><br/>
+<b style="font-size: 18px;">📚 Aprendiendo</b>
+<br/><br/>
+<sub>⚛️ React & Node.js</sub><br/>
+<sub>🐳 Docker</sub><br/>
+<sub>🤖 Machine Learning</sub>
+</td>
+<td align="center" width="33%" style="border: 2px solid #6366F1; border-radius: 10px; padding: 20px;">
+<img src="https://img.icons8.com/external-photo3ideatudio-lineal-color-photo3ideatudio/64/000000/external-rocket-space-photo3ideatudio-lineal-color-photo3ideatudio.png" width="80"/>
+<br/><br/>
+<b style="font-size: 18px;">🚀 Pasatiempos</b>
+<br/><br/>
+<sub>💻 Código</sub><br/>
+<sub>📖 Lectura técnica</sub><br/>
+<sub>⚡ Optimización</sub>
+</td>
+</tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -130,30 +158,50 @@
 
 ## 🎯 ***Habilidades Clave***
 
+<div align="center">
+
 <table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/code.png" width="60"/>
-      <br /><b>Clean Code</b>
-      <br />Código limpio y mantenible
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/database.png" width="60"/>
-      <br /><b>Data Analysis</b>
-      <br />Análisis y visualización
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/web.png" width="60"/>
-      <br /><b>Web Development</b>
-      <br />Frontend & Backend
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/brain.png" width="60"/>
-      <br /><b>Problem Solving</b>
-      <br />Pensamiento analítico
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-code-computer-programming-flaticons-lineal-color-flat-icons.png" width="80"/>
+<br/><br/>
+<b style="font-size: 16px; color: #6366F1;">💎 Clean Code</b>
+<br/><br/>
+<sub>Código limpio,</sub><br/>
+<sub>legible y</sub><br/>
+<sub>mantenible</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-data-analysis-data-analytics-flaticons-lineal-color-flat-icons.png" width="80"/>
+<br/><br/>
+<b style="font-size: 16px; color: #6366F1;">📊 Data Analysis</b>
+<br/><br/>
+<sub>Análisis y</sub><br/>
+<sub>visualización de</sub><br/>
+<sub>información</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-web-development-computer-programming-flaticons-lineal-color-flat-icons-3.png" width="80"/>
+<br/><br/>
+<b style="font-size: 16px; color: #6366F1;">🌐 Web Dev</b>
+<br/><br/>
+<sub>Frontend y</sub><br/>
+<sub>Backend</sub><br/>
+<sub>completo</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-problem-solving-job-resume-flaticons-lineal-color-flat-icons.png" width="80"/>
+<br/><br/>
+<b style="font-size: 16px; color: #6366F1;">🧠 Problem Solving</b>
+<br/><br/>
+<sub>Pensamiento</sub><br/>
+<sub>crítico y</sub><br/>
+<sub>analítico</sub>
+</td>
+</tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -203,24 +251,33 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://img.icons8.com/fluency/96/000000/github.png" width="80"/>
-      <br/><br/>
-      <b>🌟 Open Source</b>
-      <br/><br/>
-      Contribuir a proyectos de código abierto y compartir conocimiento con la comunidad
-    </td>
-    <td align="center" width="50%">
-      <img src="https://img.icons8.com/fluency/96/000000/workflow.png" width="80"/>
-      <br/><br/>
-      <b>⚡ Apps Escalables</b>
-      <br/><br/>
-      Crear aplicaciones robustas que soporten miles de usuarios
-    </td>
-  </tr>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="48%" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 15px; padding: 30px;">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/FFFFFF/external-open-source-data-analytics-flaticons-lineal-color-flat-icons.png" width="90"/>
+<br/><br/>
+<b style="font-size: 20px; color: #FFFFFF;">🌟 Open Source</b>
+<br/><br/>
+<span style="color: #E0E7FF;">Contribuir a proyectos de</span><br/>
+<span style="color: #E0E7FF;">código abierto y compartir</span><br/>
+<span style="color: #E0E7FF;">conocimiento con la comunidad</span>
+</td>
+<td width="4%"></td>
+<td align="center" width="48%" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 15px; padding: 30px;">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/FFFFFF/external-scalability-web-hosting-flaticons-lineal-color-flat-icons.png" width="90"/>
+<br/><br/>
+<b style="font-size: 20px; color: #FFFFFF;">⚡ Apps Escalables</b>
+<br/><br/>
+<span style="color: #FFE5EC;">Crear aplicaciones robustas</span><br/>
+<span style="color: #FFE5EC;">que soporten miles de</span><br/>
+<span style="color: #FFE5EC;">usuarios simultáneos</span>
+</td>
+</tr>
 </table>
+
+</div>
 
 <br/>
 
@@ -228,9 +285,34 @@
   
 ### 🎯 ***Enfoque Actual***
 
-| <img src="https://img.icons8.com/color/48/000000/javascript.png"/> Desarrollo Web | <img src="https://img.icons8.com/color/48/000000/code.png"/> Frontend & Backend | <img src="https://img.icons8.com/color/48/000000/database.png"/> Base de Datos |
-|:---:|:---:|:---:|
-| Aplicaciones modernas | Arquitectura completa | SQL & NoSQL |
+<table>
+<tr>
+<td align="center" width="33%" style="border: 3px solid #F7DF1E; border-radius: 12px; padding: 15px; background: #FFFBEA;">
+<img src="https://img.icons8.com/color/64/000000/javascript.png" width="60"/>
+<br/><br/>
+<b style="color: #F7DF1E;">🌐 Desarrollo Web</b>
+<br/><br/>
+<sub style="color: #666;">Aplicaciones modernas</sub><br/>
+<sub style="color: #666;">e interactivas</sub>
+</td>
+<td align="center" width="33%" style="border: 3px solid #6366F1; border-radius: 12px; padding: 15px; background: #EEF2FF;">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-backend-no-code-development-flaticons-lineal-color-flat-icons.png" width="60"/>
+<br/><br/>
+<b style="color: #6366F1;">⚙️ Frontend & Backend</b>
+<br/><br/>
+<sub style="color: #666;">Arquitectura</sub><br/>
+<sub style="color: #666;">completa full stack</sub>
+</td>
+<td align="center" width="33%" style="border: 3px solid #4EA94B; border-radius: 12px; padding: 15px; background: #ECFDF5;">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-database-data-analytics-flaticons-lineal-color-flat-icons.png" width="60"/>
+<br/><br/>
+<b style="color: #4EA94B;">🗄️ Base de Datos</b>
+<br/><br/>
+<sub style="color: #666;">SQL & NoSQL</sub><br/>
+<sub style="color: #666;">optimizado</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -243,9 +325,42 @@
 
 <div align="center">
 
-| 🗣️ Comunicación | 🤝 Trabajo en Equipo | 🧠 Resolución de Problemas | ⚡ Adaptabilidad |
-|:---:|:---:|:---:|:---:|
-| Clara y efectiva | Colaborativo y empático | Creativo y analítico | Rápido aprendizaje |
+<table>
+<tr>
+<td align="center" width="25%" style="padding: 20px;">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-communication-effective-communication-flaticons-lineal-color-flat-icons.png" width="70"/>
+<br/><br/>
+<b style="font-size: 16px; color: #6366F1;">🗣️ Comunicación</b>
+<br/><br/>
+<sub>Clara, efectiva</sub><br/>
+<sub>y asertiva</sub>
+</td>
+<td align="center" width="25%" style="padding: 20px;">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-teamwork-customer-feedback-flaticons-lineal-color-flat-icons.png" width="70"/>
+<br/><br/>
+<b style="font-size: 16px; color: #6366F1;">🤝 Trabajo en Equipo</b>
+<br/><br/>
+<sub>Colaborativo</sub><br/>
+<sub>y empático</sub>
+</td>
+<td align="center" width="25%" style="padding: 20px;">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-problem-solving-sales-performance-flaticons-lineal-color-flat-icons.png" width="70"/>
+<br/><br/>
+<b style="font-size: 16px; color: #6366F1;">🧠 Problem Solving</b>
+<br/><br/>
+<sub>Creativo y</sub><br/>
+<sub>analítico</sub>
+</td>
+<td align="center" width="25%" style="padding: 20px;">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-adaptability-business-risks-flaticons-lineal-color-flat-icons.png" width="70"/>
+<br/><br/>
+<b style="font-size: 16px; color: #6366F1;">⚡ Adaptabilidad</b>
+<br/><br/>
+<sub>Rápido</sub><br/>
+<sub>aprendizaje</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -279,30 +394,49 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/moon-symbol.png" width="60"/>
-      <br/><b>🌙 Nocturno</b>
-      <br/>Programo mejor de noche
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/coffee-to-go.png" width="60"/>
-      <br/><b>☕ Cafeína</b>
-      <br/>El café es mi combustible
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/book.png" width="60"/>
-      <br/><b>📚 Lector</b>
-      <br/>Leo docs como novelas
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.icons8.com/fluency/96/000000/goal.png" width="60"/>
-      <br/><b>🎯 Meta</b>
-      <br/>Código que otros disfruten
-    </td>
-  </tr>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="23%" style="border: 2px solid #8B5CF6; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%);">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/FFFFFF/external-night-lifestyle-flaticons-lineal-color-flat-icons.png" width="65"/>
+<br/><br/>
+<b style="font-size: 15px; color: #C4B5FD;">🌙 Nocturno</b>
+<br/><br/>
+<sub style="color: #DDD6FE;">Programo mejor</sub><br/>
+<sub style="color: #DDD6FE;">de noche</sub>
+</td>
+<td width="2%"></td>
+<td align="center" width="23%" style="border: 2px solid #D97706; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #78350f 0%, #92400e 100%);">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/FFFFFF/external-coffee-lifestyles-flaticons-lineal-color-flat-icons.png" width="65"/>
+<br/><br/>
+<b style="font-size: 15px; color: #FED7AA;">☕ Cafeína</b>
+<br/><br/>
+<sub style="color: #FEEBC8;">El café es mi</sub><br/>
+<sub style="color: #FEEBC8;">combustible</sub>
+</td>
+<td width="2%"></td>
+<td align="center" width="23%" style="border: 2px solid #0891B2; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #164e63 0%, #155e75 100%);">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/FFFFFF/external-reading-productivity-flaticons-lineal-color-flat-icons.png" width="65"/>
+<br/><br/>
+<b style="font-size: 15px; color: #A5F3FC;">📚 Lector</b>
+<br/><br/>
+<sub style="color: #CFFAFE;">Leo docs como</sub><br/>
+<sub style="color: #CFFAFE;">novelas</sub>
+</td>
+<td width="2%"></td>
+<td align="center" width="23%" style="border: 2px solid #DC2626; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #7f1d1d 0%, #991b1b 100%);">
+<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/FFFFFF/external-goal-achievement-flaticons-lineal-color-flat-icons.png" width="65"/>
+<br/><br/>
+<b style="font-size: 15px; color: #FECACA;">🎯 Meta</b>
+<br/><br/>
+<sub style="color: #FEE2E2;">Código que otros</sub><br/>
+<sub style="color: #FEE2E2;">disfruten leer</sub>
+</td>
+</tr>
 </table>
+
+</div>
 
 <br/>
 
