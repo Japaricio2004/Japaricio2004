@@ -311,7 +311,7 @@
 <table>
 <tr>
 <td align="center" width="25%" style="padding: 20px;">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-communication-effective-communication-flaticons-lineal-color-flat-icons.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/communication.png" width="70"/>
 <br/><br/>
 <b style="font-size: 16px; color: #6366F1;">🗣️ Comunicación</b>
 <br/><br/>
@@ -319,7 +319,7 @@
 <sub>y asertiva</sub>
 </td>
 <td align="center" width="25%" style="padding: 20px;">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-teamwork-customer-feedback-flaticons-lineal-color-flat-icons.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/collaboration.png" width="70"/>
 <br/><br/>
 <b style="font-size: 16px; color: #6366F1;">🤝 Trabajo en Equipo</b>
 <br/><br/>
@@ -327,7 +327,7 @@
 <sub>y empático</sub>
 </td>
 <td align="center" width="25%" style="padding: 20px;">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-problem-solving-sales-performance-flaticons-lineal-color-flat-icons.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/brainstorm-skill.png" width="70"/>
 <br/><br/>
 <b style="font-size: 16px; color: #6366F1;">🧠 Problem Solving</b>
 <br/><br/>
@@ -335,7 +335,7 @@
 <sub>analítico</sub>
 </td>
 <td align="center" width="25%" style="padding: 20px;">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-adaptability-business-risks-flaticons-lineal-color-flat-icons.png" width="70"/>
+<img src="https://img.icons8.com/fluency/96/000000/learning.png" width="70"/>
 <br/><br/>
 <b style="font-size: 16px; color: #6366F1;">⚡ Adaptabilidad</b>
 <br/><br/>
