@@ -50,8 +50,6 @@
 
 🌐 Creando soluciones web que **impactan y simplifican**  
 
-🔍 Explorando el mundo de los **sistemas distribuidos**  
-
 🚀 En búsqueda continua de **nuevos retos tecnológicos**
 
 </td>
