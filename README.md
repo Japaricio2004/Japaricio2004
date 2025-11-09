@@ -228,24 +228,7 @@
 <!-- DIVISOR DECORATIVO -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-## 🚀 ***Proyectos Destacados***
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Japaricio2004&repo=Japaricio2004&theme=radical&border_radius=10&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&border_color=6366F1)](https://github.com/Japaricio2004)
-
-</div>
-
-<p align="center">
-  <i>🔍 Explora mis repositorios para descubrir más proyectos interesantes</i>
-</p>
-
-<br/>
-
-<!-- DIVISOR DECORATIVO -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-## 💼 ***Objetivos 2025***
+##  ***Objetivos 2025***
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400"/>
@@ -381,61 +364,6 @@
   [![Instagram](https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jorge_luis_aparicio123/)
   [![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jorge@ejemplo.com)
   
-</div>
-
-<br/>
-
-<!-- DIVISOR DECORATIVO -->
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
-
-## 🎮 ***Fun Facts***
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="23%" style="border: 2px solid #8B5CF6; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #1e1b4b 0%, #312e81 100%);">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/FFFFFF/external-night-lifestyle-flaticons-lineal-color-flat-icons.png" width="65"/>
-<br/><br/>
-<b style="font-size: 15px; color: #C4B5FD;">🌙 Nocturno</b>
-<br/><br/>
-<sub style="color: #DDD6FE;">Programo mejor</sub><br/>
-<sub style="color: #DDD6FE;">de noche</sub>
-</td>
-<td width="2%"></td>
-<td align="center" width="23%" style="border: 2px solid #D97706; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #78350f 0%, #92400e 100%);">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/FFFFFF/external-coffee-lifestyles-flaticons-lineal-color-flat-icons.png" width="65"/>
-<br/><br/>
-<b style="font-size: 15px; color: #FED7AA;">☕ Cafeína</b>
-<br/><br/>
-<sub style="color: #FEEBC8;">El café es mi</sub><br/>
-<sub style="color: #FEEBC8;">combustible</sub>
-</td>
-<td width="2%"></td>
-<td align="center" width="23%" style="border: 2px solid #0891B2; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #164e63 0%, #155e75 100%);">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/FFFFFF/external-reading-productivity-flaticons-lineal-color-flat-icons.png" width="65"/>
-<br/><br/>
-<b style="font-size: 15px; color: #A5F3FC;">📚 Lector</b>
-<br/><br/>
-<sub style="color: #CFFAFE;">Leo docs como</sub><br/>
-<sub style="color: #CFFAFE;">novelas</sub>
-</td>
-<td width="2%"></td>
-<td align="center" width="23%" style="border: 2px solid #DC2626; border-radius: 15px; padding: 20px; background: linear-gradient(135deg, #7f1d1d 0%, #991b1b 100%);">
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/FFFFFF/external-goal-achievement-flaticons-lineal-color-flat-icons.png" width="65"/>
-<br/><br/>
-<b style="font-size: 15px; color: #FECACA;">🎯 Meta</b>
-<br/><br/>
-<sub style="color: #FEE2E2;">Código que otros</sub><br/>
-<sub style="color: #FEE2E2;">disfruten leer</sub>
-</td>
-</tr>
-</table>
-
 </div>
 
 <br/>
